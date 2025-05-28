@@ -1,3 +1,14 @@
+window.addEventListener("load", function () {
+    ScrollTrigger.refresh();
+});
+
+
+function lenisScroll() {
+}
+lenisScroll()
+
+
+
 
 function loaderAnimation() {
     
